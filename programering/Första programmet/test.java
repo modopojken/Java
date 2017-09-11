@@ -7,7 +7,8 @@ import java.util.*;
             //JOptionPane.showMessageDialog(null, "Hej!" + " Dabba really hard my dudddddduh!" + "\nYayeYA YEyaah" + "\nJag har ett par riktigt fina linebreaks!");
             //Toolkit.getDefaultToolkit().beep();
             //System.getProperty("user.name");
-            JOptionPane.showMessageDialog(null, "Info", "Information" JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(null, "Blyad", "Information", JOptionPane.WARNING_MESSAGE);
+
             //System.getProperties().list(System.out);
             //JOptionPane.showMessageDialog(null, "Datum och Tid: \n" + Calendar.getInstance().getTime().toString());
             
